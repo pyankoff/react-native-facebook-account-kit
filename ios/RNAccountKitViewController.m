@@ -1,8 +1,8 @@
 #import "RNAccountKitViewController.h"
 
 #import <AccountKit/AccountKit.h>
-#import <React/RCTUtils.h>
-#import <React/RCTLog.h>
+#import "RCTUtils.h"
+#import "RCTLog.h"
 
 @implementation RNAccountKitViewController
 {

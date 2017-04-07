@@ -3,10 +3,10 @@
 //
 
 #import "RNAccountKit.h"
-#import <React/RCTBridge.h>
+#import "RCTBridge.h"
 #import "RNAccountKitViewController.h"
-#import <React/RCTRootView.h>
-#import <React/RCTLog.h>
+#import "RCTRootView.h"
+#import "RCTLog.h"
 
 @implementation RNAccountKit
 {
